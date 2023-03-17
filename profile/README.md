@@ -4,12 +4,22 @@
 ## Navigation Links
 
 - Frontend Repositories
-  - [Frontend](https://github.com/SudoKuru/Frontend) Dev port 19006
-  - [Sudokuru](https://github.com/SudoKuru/Sudokuru) Dev port 3001
+  - [Frontend](https://github.com/SudoKuru/Frontend)
+    - This repository hosts code for app and website
+  - [Sudokuru](https://github.com/SudoKuru/Sudokuru)
+    - This is an NPM package that hosts code that supports Frontend
 - Backend Repositories
-  - [BFF](https://github.com/SudoKuru/BFF) Dev port 2999
-  - [Puzzle](https://github.com/SudoKuru/Puzzle) Dev port 3000
-  - [UserActiveGames](https://github.com/SudoKuru/UserActiveGames) Dev port 3001
-  - [UserGameStatistics](https://github.com/SudoKuru/UserGameStatistics) Dev port 3002
-  - [UserGamePreferences](https://github.com/SudoKuru/UserGamePreferences) Dev port 3003
-  - [UserProfile](https://github.com/SudoKuru/UserProfile) Dev port 3004
+  - BFFs
+    - [UserActiveGamesBFF](https://github.com/SudoKuru/UserActiveGamesBFF)
+      - This BFF handles management of startGame, saveGame, getGame, and endGame
+  - Backend
+    - [Puzzle](https://github.com/SudoKuru/Puzzle)
+      - CRUD for Puzzle objects
+    - [UserActiveGames](https://github.com/SudoKuru/UserActiveGames)
+      - CRUD for UserActiveGames objects
+    - [UserGameStatistics](https://github.com/SudoKuru/UserGameStatistics)
+      - CRUD for UserGameStatistics objects
+    - [UserGamePreferences](https://github.com/SudoKuru/UserGamePreferences)
+      - CRUD for UserGamePreferences objects
+    - [UserProfile](https://github.com/SudoKuru/UserProfile)
+      - CRUD for Profile objects
