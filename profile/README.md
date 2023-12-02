@@ -1,4 +1,5 @@
 ![Sudokuru Logo](https://sudokuru.s3.amazonaws.com/goldLogoText.png)
+
 # Sudokuru GitHub Organization
 
 ## Navigation Links
