@@ -106,7 +106,7 @@ Below documented are some of the more popular and/or useful libraries.
 
 - [react-i18next](https://github.com/i18next/react-i18next)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
-= [react-native-whirlwind](https://github.com/arabold/react-native-whirlwind)
+- [react-native-whirlwind](https://github.com/arabold/react-native-whirlwind)
 
 ## Templates
 
