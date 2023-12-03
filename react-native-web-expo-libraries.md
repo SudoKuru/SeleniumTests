@@ -1,8 +1,10 @@
-# React Native Web Libraries
+# React Native Web Expo Libraries
 
-The purpose of this file is to document a list of useful React Native Web libraries that work cross-platform.
+The purpose of this file is to document a list of useful React Native Web Expo libraries that work cross-platform.
 
 We can use the [React Native Directory](https://reactnative.directory/?android=true&ios=true&web=true) to find libraries compatible with iOS, Android, and web.
+
+We can also see a list of [expo libraries](https://docs.expo.dev/versions/latest/).
 
 Old list of [react-native resources](https://github.com/jondot/awesome-react-native)
 
