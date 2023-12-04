@@ -14,16 +14,45 @@ Resources:
 - Canary
 - A/B
 
+## Resources
+- [Hypertune](https://www.hypertune.com/pricing)
 
-## Vercel
+## Web
 
+### Vercel
 
+- [Can do A/B testing using edge middleware](https://vercel.com/guides/ab-testing-on-vercel)
 
-## Netlify
+### Netlify
 
 - [Can do split testing (A/B testing)](https://docs.netlify.com/site-deploys/split-testing/). Limitation is that it must be handled with two seperate Git branches using branch deploys.
 
 
-## Cloudflare Pages
+### Cloudflare Pages
 
 [Can use web workers to implement A/B testing for website](https://developers.cloudflare.com/pages/how-to/use-worker-for-ab-testing-in-pages/)
+
+### Amazon S3
+
+- [Can perform A/B testing using Evidently](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Evidently-sample-application.html)
+- [Can perform A/B testing using Lambda Edge](https://medium.com/@emmanuel_87397/case-study-ab-testing-a-static-website-hosted-on-aws-s3-using-cloudfront-and-lambda-edge-0838ac926a11)
+
+## Mobile
+
+### Amazon
+
+- [Supports staged rollouts after 10k downloads](https://developer.amazon.com/docs/app-submission/release-updates-in-staged-rollouts.html)
+
+### Google Play
+
+- [Supports A/B testing for marketing materials](https://support.google.com/googleplay/android-developer/answer/12053285?hl=en)
+- https://appradar.com/blog/app-ab-testing-with-store-listing-experiments-in-google-play
+
+- [Supports staged rollouts](https://support.google.com/googleplay/android-developer/answer/6346149?hl=en)
+
+
+### Apple Appstore
+
+- [Supports A/B testing for marketing materials](https://appradar.com/blog/app-ab-testing-with-product-page-optimization-in-apple-app-store)
+
+- [Supports staged rollouts](https://developer.apple.com/help/app-store-connect/update-your-app/release-a-version-update-in-phases)
