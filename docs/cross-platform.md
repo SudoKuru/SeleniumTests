@@ -4,6 +4,10 @@ Lists:
 
 https://enginesdatabase.com/
 
+https://medium.com/@nativecoders/flutter-vs-other-cross-platform-frameworks-a-comparative-analysis-d03f9890f9d9
+
+https://dotnet.microsoft.com/en-us/apps/games/engines
+
 
 ## Game Engine
 
@@ -50,6 +54,12 @@ https://armory3d.org/features
 
 - [CryEngine](https://www.cryengine.com/features) Can't find full list, PC, Xbox, Playstation
 
+- [Ambient](https://ambient.run/) Web and desktop?
+
+- [STRIDE](https://www.stride3d.net/) Windows, iOS, Android, Linux
+
+- [ursina](https://www.ursinaengine.org/) Windows, Linux, Mac
+
 ## Web Only
 
 - [Phaser](https://phaser.io/) Web only. Interesting potential with Tauri https://github.com/hktr92/tauri-phaser3-typescript-webpack-example
@@ -57,6 +67,8 @@ https://armory3d.org/features
 - [Winderland Engine](https://wonderlandengine.com/)
 - [Babylon.js](https://www.babylonjs.com/)
 - [Excalibur](https://excaliburjs.com/)
+- [PlayCanvas](https://github.com/playcanvas/engine)
+- [RogueEngine](https://rogueengine.io/)
 
 ## Framework
 - [Uno Platform](https://platform.uno/) iOS, Andorid, Web, Windows, Linux, macOS
@@ -65,11 +77,16 @@ https://armory3d.org/features
 - [React Native Web](https://necolas.github.io/react-native-web/) iOS, Android, Web
 - [Flutter](https://flutter.dev/) iOS, Android, Web, Linux, macOS, Windows
 - [Tauri](https://tauri.app/) Linux, macOS, Windows, Android, iOS, Web
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [.NET](https://dotnet.microsoft.com/en-us/) Confusing
+- [Blazor Hybrid](https://learn.microsoft.com/en-us/shows/blazor-hybrid-for-beginners/what-is-blazor-hybrid-blazor-hybrid-for-beginners) iOS, Android, mac, windows, web
+- [Ionic](https://ionicframework.com/) Web, iOS, Android
+- [NativeScript](https://nativescript.org/) Web, iOS, Android
+- [Cordova](https://cordova.apache.org/) Web, iOS, Android, Windows
+- [Capacitor](https://capacitorjs.com/) Web, iOS, Android
+- [Qt](https://www.qt.io/product/features) WEb, linux, windows, macOS, iOS, Android
+- [Felgo](https://felgo.com/) iOS, Android, macOS, Windows, Linux, Web
+- [Kivy](https://kivy.org/) Windows, Linux, macOS, iOS, Android
+- [RubyMotion](http://www.rubymotion.com/) iOS, Android, OS X
+- [titaniumsdk](https://titaniumsdk.com/) Web, iOS, Android
+- [Ren’Py](https://www.renpy.org/) Android, iOS, Web, Linux, Windows, MacOS
+- [Beeware](https://beeware.org/) iOS, Android, Windows, macOS, Linux, Web
