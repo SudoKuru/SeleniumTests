@@ -8,6 +8,11 @@ https://medium.com/@nativecoders/flutter-vs-other-cross-platform-frameworks-a-co
 
 https://dotnet.microsoft.com/en-us/apps/games/engines
 
+May be possible to use html / css to create xbox game:
+https://github.com/ChocolateLoverRaj/js-xbox-game
+Potentially with switch?
+https://www.gamebrew.org/wiki/Nx.js_Switch
+
 
 ## Game Engine
 
@@ -60,6 +65,8 @@ https://armory3d.org/features
 
 - [ursina](https://www.ursinaengine.org/) Windows, Linux, Mac
 
+- [ebiten](https://github.com/hajimehoshi/ebiten) Windows, Mac, Linux, Android, iOS, Web, Switch, XBox
+
 ## Web Only
 
 - [Phaser](https://phaser.io/) Web only. Interesting potential with Tauri https://github.com/hktr92/tauri-phaser3-typescript-webpack-example
@@ -69,6 +76,7 @@ https://armory3d.org/features
 - [Excalibur](https://excaliburjs.com/)
 - [PlayCanvas](https://github.com/playcanvas/engine)
 - [RogueEngine](https://rogueengine.io/)
+- [Pikijs](https://pixijs.com/)
 
 ## Framework
 - [Uno Platform](https://platform.uno/) iOS, Andorid, Web, Windows, Linux, macOS
