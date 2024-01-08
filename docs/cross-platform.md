@@ -6,6 +6,8 @@ https://enginesdatabase.com/
 
 https://medium.com/@nativecoders/flutter-vs-other-cross-platform-frameworks-a-comparative-analysis-d03f9890f9d9
 
+https://dev.to/this-is-learning/the-different-strategies-to-building-a-cross-platform-app-3p56
+
 https://dotnet.microsoft.com/en-us/apps/games/engines
 
 May be possible to use html / css to create xbox game:
@@ -99,3 +101,4 @@ https://armory3d.org/features
 - [Ren’Py](https://www.renpy.org/) Android, iOS, Web, Linux, Windows, MacOS
 - [Beeware](https://beeware.org/) iOS, Android, Windows, macOS, Linux, Web
 - [renative](https://github.com/flexn-io/renative)
+- [react-native-turbo](https://github.com/software-mansion-labs/react-native-turbo-demo)
