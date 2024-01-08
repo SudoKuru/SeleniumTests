@@ -116,6 +116,7 @@ Below documented are some of the more popular and/or useful libraries.
 - [kratos-selfservice-ui-react-native](https://github.com/ory/kratos-selfservice-ui-react-native)
 - [react-native-starter](https://github.com/flatlogic/react-native-starter)
 - [react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo)
+- [react-native-everywhere](https://github.com/sarthakpranesh/react-native-everywhere)
 
 
 Interesting that reactxp has been kept [somewhat alive](https://github.com/chaldal/reactxp)
