@@ -69,6 +69,8 @@ https://armory3d.org/features
 
 - [ebiten](https://github.com/hajimehoshi/ebiten) Windows, Mac, Linux, Android, iOS, Web, Switch, XBox
 
+- [Ren’Py](https://www.renpy.org/) Android, iOS, Web, Linux, Windows, MacOS
+
 ## Web Only
 
 - [Phaser](https://phaser.io/) Web only. Interesting potential with Tauri https://github.com/hktr92/tauri-phaser3-typescript-webpack-example
@@ -81,24 +83,58 @@ https://armory3d.org/features
 - [Pikijs](https://pixijs.com/)
 
 ## Framework
+
+### C# Language
 - [Uno Platform](https://platform.uno/) iOS, Andorid, Web, Windows, Linux, macOS
 - [Monogame](https://monogame.net/) Windows, MacOS, Linux, Android, iOS, iPadOS, Playstation 4, Playstation 5, Xbox One, Nintendo Switch
 - [Mono Project](https://www.mono-project.com/docs/about-mono/supported-platforms/) Linux, macOS, iOS, Android, Windows, Playstation 4, Xbox 1, X, S
-- [React Native Web](https://necolas.github.io/react-native-web/) iOS, Android, Web
-- [Flutter](https://flutter.dev/) iOS, Android, Web, Linux, macOS, Windows
-- [Tauri](https://tauri.app/) Linux, macOS, Windows, Android, iOS, Web
 - [.NET](https://dotnet.microsoft.com/en-us/) Confusing
 - [Blazor Hybrid](https://learn.microsoft.com/en-us/shows/blazor-hybrid-for-beginners/what-is-blazor-hybrid-blazor-hybrid-for-beginners) iOS, Android, mac, windows, web
+
+### Javascript/Typescript Language
+- [React Native Web](https://necolas.github.io/react-native-web/) iOS, Android, Web
+- [Tauri](https://tauri.app/) Linux, macOS, Windows, Android, iOS, Web
 - [Ionic](https://ionicframework.com/) Web, iOS, Android
 - [NativeScript](https://nativescript.org/) Web, iOS, Android
 - [Cordova](https://cordova.apache.org/) Web, iOS, Android, Windows
 - [Capacitor](https://capacitorjs.com/) Web, iOS, Android
-- [Qt](https://www.qt.io/product/features) WEb, linux, windows, macOS, iOS, Android
-- [Felgo](https://felgo.com/) iOS, Android, macOS, Windows, Linux, Web
-- [Kivy](https://kivy.org/) Windows, Linux, macOS, iOS, Android
-- [RubyMotion](http://www.rubymotion.com/) iOS, Android, OS X
 - [titaniumsdk](https://titaniumsdk.com/) Web, iOS, Android
-- [Ren’Py](https://www.renpy.org/) Android, iOS, Web, Linux, Windows, MacOS
-- [Beeware](https://beeware.org/) iOS, Android, Windows, macOS, Linux, Web
 - [renative](https://github.com/flexn-io/renative)
 - [react-native-turbo](https://github.com/software-mansion-labs/react-native-turbo-demo)
+
+### Dart Language
+- [Flutter](https://flutter.dev/) iOS, Android, Web, Linux, macOS, Windows
+
+### C++ Language
+- [Qt](https://www.qt.io/product/features) Web, linux, windows, macOS, iOS, Android
+
+### QML + Javascript
+- [Felgo](https://felgo.com/) iOS, Android, macOS, Windows, Linux, Web
+
+### Python and kivy
+- [Kivy](https://kivy.org/) Windows, Linux, macOS, iOS, Android
+
+### Python
+- [Beeware](https://beeware.org/) iOS, Android, Windows, macOS, Linux, Web
+
+### Ruby
+- [RubyMotion](http://www.rubymotion.com/) iOS, Android, OS X
+- do [further research](https://www.ruby-toolbox.com/categories/GUI_Frameworks)
+
+### Kotlin and/or Java
+- [kotlin multiplatform](https://kotlinlang.org/docs/multiplatform.html) Web, iOS, Android, Desktop
+- [Codename One](https://www.codenameone.com/) Web, iOS, Android, Windows (UWP)
+- [JavaFX](https://openjfx.io/) Desktop, Mobile
+
+### Go
+- [WAILS](https://wails.io/docs/introduction) Desktop
+- [Gio](https://gioui.org/) Web, Desktop, iOS, Android
+
+### Rust
+- [Iced](https://github.com/iced-rs/iced) Desktop, Web
+- [Dioxus](https://dioxuslabs.com/) Web, desktop, mobile
+- [crux](https://github.com/redbadger/crux) mobile, web
+
+ # PHP
+ - [NativePHP](https://nativephp.com/) Desktop
+ - [wxphp](https://github.com/wxphp/wxphp) Desktop
