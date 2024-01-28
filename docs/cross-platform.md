@@ -106,7 +106,8 @@ https://armory3d.org/features
 - [Flutter](https://flutter.dev/) iOS, Android, Web, Linux, macOS, Windows
 
 ### C++ Language
-- [Qt](https://www.qt.io/product/features) Web, linux, windows, macOS, iOS, Android
+- [Qt](https://www.qt.io/product/features) Web, linux, windows, macOS, iOS, Android. 
+[Bindings](https://wiki.qt.io/Language_Bindings) Python, Ring, Java, Kotlin, Rust, Zig, Crystal, Nim, Go, C#, D, Haskell, Julia, Qtah, OCamal, Nelson
 
 ### QML + Javascript
 - [Felgo](https://felgo.com/) iOS, Android, macOS, Windows, Linux, Web
@@ -135,6 +136,24 @@ https://armory3d.org/features
 - [Dioxus](https://dioxuslabs.com/) Web, desktop, mobile
 - [crux](https://github.com/redbadger/crux) mobile, web
 
- # PHP
+ ### PHP
  - [NativePHP](https://nativephp.com/) Desktop
  - [wxphp](https://github.com/wxphp/wxphp) Desktop
+
+ ### V
+ - [V UI](https://github.com/vlang/ui) Desktop, Android, (soon iOS and Web)
+
+ ### Zig
+ - [capy](https://github.com/capy-ui/capy) Windows, Linux, Android
+
+### Haxe
+- [Haxe](https://haxe.org/) Desktop, mobile, web
+- [Lime](https://github.com/openfl/lime) Desktop, mobile, web
+
+### Haskell
+- [monomer](https://github.com/fjvallarino/monomer) Desktop
+- [Obelisk](https://github.com/obsidiansystems/obelisk?tab=readme-ov-file#overview) Desktop, Mobile, maybe web?
+
+### Elixir
+- [elixir-desktop](https://github.com/elixir-desktop/desktop) Desktop, mobile
+
