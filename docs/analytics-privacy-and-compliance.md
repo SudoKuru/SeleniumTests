@@ -46,12 +46,13 @@ Research Areas:
 
 - https://www.zenbusiness.com/blog/general-data-protection-regulation-gdpr/
 
+- https://pilcrow.vercel.app/blog/gdpr-compliant-analytics
+
 Interesting enough, "If you are not targeting EU customers, (email or advertisements) then EU GDPR does not apply?
 - https://advisera.com/articles/who-needs-to-be-gdpr-compliant-an-easy-explanation/
 
 It only doesn't apply if you aren't tracking data
 - https://gdpr.eu/companies-outside-of-europe/
-
 
 2. ePrivacy Regulation
 
