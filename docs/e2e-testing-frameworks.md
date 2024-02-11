@@ -19,6 +19,11 @@ Mobile Testing Frameworks Options:
     - supports web, apps through appium, and potentially some desktop applications
     - tried to get tauri example integration to work and it did not work
 
+- [Robot Framework](https://github.com/robotframework/robotframework)
+
+- [Nightwatchjs](https://github.com/nightwatchjs/nightwatch)
+
+
 
 CI/CD Android and iOS
 
