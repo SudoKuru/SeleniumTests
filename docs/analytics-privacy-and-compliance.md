@@ -66,3 +66,6 @@ Interesting information about Microsoft Clarity:
 - https://www.cookiebox.pro/en/cookiepedia/microsoft-clarity-gdpr/
 - https://learn.microsoft.com/en-us/clarity/setup-and-installation/cookie-consent
 
+Plausible analytics makes some big claims about GDPR:
+- https://plausible.io/data-policy#data-ownership-of-your-web-analytics
+
