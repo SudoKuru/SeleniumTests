@@ -16,6 +16,7 @@ Mobile Testing Frameworks Options:
     - https://blog.expo.dev/testing-expo-apps-with-detox-and-react-native-testing-library-7fbdbb82ac87
     - https://docs.expo.dev/build-reference/e2e-tests/
     - potentially easier to run in pipeline than appium https://remarkablemark.org/blog/2023/02/18/how-to-run-react-native-detox-tests-on-github-actions/
+    - https://github.com/calitb/expo-e2e-demo/tree/main
 
 - [webdriverio](https://webdriver.io/)
     - supports web, apps through appium, and potentially some desktop applications
