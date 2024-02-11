@@ -69,3 +69,6 @@ Interesting information about Microsoft Clarity:
 Plausible analytics makes some big claims about GDPR:
 - https://plausible.io/data-policy#data-ownership-of-your-web-analytics
 
+
+Privacy Policies:
+- https://thelegality.com/are-privacy-policies-required-by-law/
