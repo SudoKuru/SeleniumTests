@@ -1,8 +1,5 @@
 # E2E Testing Frameworks
 
-todo
-
-
 Mobile Testing Frameworks Options:
 
 - [Maestro](https://maestro.mobile.dev/platform-support/react-native)
