@@ -19,11 +19,29 @@ Mobile Testing Frameworks Options:
     - supports web, apps through appium, and potentially some desktop applications
     - tried to get tauri example integration to work and it did not work
 
+    - Interesting, looks like microsoft is still activly using webdriverio in this project:
+    - https://github.com/microsoft/fluentui-react-native/blob/main/apps/E2E/README.md
+    Can use for android, ios, macos, uwp, win32
+
 - [Robot Framework](https://github.com/robotframework/robotframework)
 
 - [Nightwatchjs](https://github.com/nightwatchjs/nightwatch)
 
+- [Xamarin.UITest](https://learn.microsoft.com/en-us/appcenter/test-cloud/frameworks/uitest/)
 
+
+Windows Testing:
+- 
+
+- WinAppDriver - abandoned https://github.com/microsoft/WinAppDriver/issues/1550
+- https://github.com/licanhua/YWinAppDriver
+- https://github.com/FlaUI/FlaUI
+
+- http://sikulix.com/
+
+
+Game automation testing
+- https://github.com/dogu-team/gamium
 
 CI/CD Android and iOS
 
