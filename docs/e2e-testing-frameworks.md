@@ -23,6 +23,10 @@ Mobile Testing Frameworks Options:
     - https://github.com/microsoft/fluentui-react-native/blob/main/apps/E2E/README.md
     Can use for android, ios, macos, uwp, win32
 
+    - potentially tauri support with tauri-driver
+    https://jonaskruckenberg.github.io/tauri-docs-wip/development/testing.html#end-to-end-testing
+    - https://github.com/chippers/hello_tauri
+
 - [Robot Framework](https://github.com/robotframework/robotframework)
 
 - [Nightwatchjs](https://github.com/nightwatchjs/nightwatch)
