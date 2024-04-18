@@ -1,5 +1,7 @@
 https://github.com/leaningtech/cheerpj-meta
 
+https://github.com/appcypher/awesome-wasm-langs
+
 ## Java
 https://browsercraft.cheerpj.com/
 
