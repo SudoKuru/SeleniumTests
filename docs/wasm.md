@@ -18,6 +18,9 @@ https://www.pyweb.io/
 
 https://github.com/pyscript/pyscript
 
+## PHP
+https://github.com/seanmorris/php-wasm
+
 
 
 ## Investigate idea of multithreaded scripting language (faster than javascript?)
