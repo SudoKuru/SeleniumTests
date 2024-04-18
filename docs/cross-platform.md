@@ -114,6 +114,7 @@ https://armory3d.org/features
 
 ### Python and kivy
 - [Kivy](https://kivy.org/) Windows, Linux, macOS, iOS, Android
+- [HTag](https://github.com/manatlan/htag) desktop, android, web
 
 ### Python
 - [Beeware](https://beeware.org/) iOS, Android, Windows, macOS, Linux, Web
