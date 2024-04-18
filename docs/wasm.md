@@ -14,6 +14,7 @@ https://leaningtech.com/webvm/
 
 ## Python
 https://www.pyweb.io/
+https://github.com/pyscript/pyscript
 
 
 
