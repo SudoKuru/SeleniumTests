@@ -9,6 +9,10 @@ https://github.com/leaningtech/cheerpj-meta
 
 https://www.gwtproject.org/overview.html
 
+https://vaadin.com/
+
+https://github.com/google/j2cl
+
 ## polylang
 https://github.com/chris-koch-penn/polylang.io
 
