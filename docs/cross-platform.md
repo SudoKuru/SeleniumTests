@@ -131,6 +131,7 @@ https://armory3d.org/features
 ### Go
 - [WAILS](https://wails.io/docs/introduction) Desktop
 - [Gio](https://gioui.org/) Web, Desktop, iOS, Android
+- [fyne](https://github.com/fyne-io/fyne) Web, Desktop, iOS, Android
 
 ### Rust
 - [Iced](https://github.com/iced-rs/iced) Desktop, Web
