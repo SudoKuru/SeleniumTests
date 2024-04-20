@@ -159,3 +159,6 @@ https://armory3d.org/features
 ### Elixir
 - [elixir-desktop](https://github.com/elixir-desktop/desktop) Desktop, mobile
 
+### Nim
+- [nimx](https://github.com/yglukhov/nimx) Desktop, mobile, web
+
